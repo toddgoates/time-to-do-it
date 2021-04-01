@@ -12,6 +12,7 @@
   "author": "Todd Goates",
   "license": "ISC",
   "dependencies": {
+    "@auth0/auth0-react": "^1.4.0",
     "@craco/craco": "^6.1.0",
     "@tailwindcss/postcss7-compat": "^2.0.2",
     "autoprefixer": "^9.8.6",
