@@ -7,7 +7,7 @@ function Header() {
   const { isAuthenticated, user } = useAuth0();
 
   return (
-    <header className="bg-transparent">
+    <header className="mb-4 bg-transparent">
       <div>
         {isAuthenticated ? (
           <div className="flex items-center justify-between gap-4">
